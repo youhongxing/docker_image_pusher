@@ -1,4 +1,1 @@
 nginx
-lscr.io/linuxserver/unifi-network-application:latest
-docker.io/library/mongo:4.4
-ypptec/nascab
