@@ -1,1 +1,2 @@
-justsong/go-file
+nginx
+python:3.9-slim
